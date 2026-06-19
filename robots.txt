@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://badorro.github.io/portal-cn-9you-com/sitemap.xml
